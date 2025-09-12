@@ -1,0 +1,104 @@
+[
+  {
+    "question": "Qual das cartas não é uma carta do Clash Royale?",
+    "options": ["Bandida Líder", "Vinhas", "Cavaleiro das trevas", "Goblinstein"],
+    "correctAnswer": "Cavaleiro das trevas"
+  },
+  {
+    "question": "Qual o nome do Fallen?",
+    "options": ["Gabriel", "Tobias", "Pedro", "Fabricio"],
+    "correctAnswer": "Gabriel"
+  },
+  {
+    "question": "Qual formula usar para descobrir a hipotenusa?",
+    "options": ["p² + l² = m³", "a = b.h/2", "π.r²", "a² + b² = c²"],
+    "correctAnswer": "a² + b² = c²"
+  },
+  {
+    "question": "Qual formula usar para transformar Fahrenheit em Celsius?",
+    "options": ["C = 1.8(F + 34)", "C = (F - 32) / 1.8", "C = (F − 33)1.8", "C = 1.9(C + 22)"],
+    "correctAnswer": "C = (F - 32) / 1.8"
+  },
+  {
+    "question": "Qual destes não é um Pokémon?",
+    "options": ["Pikachu", "Charmander", "Agumon", "Bulbasaur"],
+    "correctAnswer": "Agumon"
+  },
+  {
+    "question": "Qual destes super-heróis pertence à DC Comics?",
+    "options": ["Homem-Aranha", "Batman", "Homem de Ferro", "Capitão América"],
+    "correctAnswer": "Batman"
+  },
+  {
+    "question": "Qual elemento químico tem símbolo 'W'?",
+    "options": ["Tungstênio", "Prata", "Chumbo", "Estanho"],
+    "correctAnswer": "Tungstênio"
+  },
+  {
+    "question": "Quantos cromossomos tem o ser humano normalmente?",
+    "options": ["42", "46", "48", "50"],
+    "correctAnswer": "46"
+  },
+  {
+    "question": "Qual destes números é primo?",
+    "options": ["51", "97", "91", "77"],
+    "correctAnswer": "97"
+  },
+  {
+    "question": "Qual é o valor de log₂(64)?",
+    "options": ["6", "8", "4", "10"],
+    "correctAnswer": "6"
+  },
+  {
+    "question": "Qual desses jogos NÃO foi desenvolvido pela Rockstar Games?",
+    "options": ["GTA V", "Red Dead Redemption", "Max Payne 3", "Far Cry 3"],
+    "correctAnswer": "Far Cry 3"
+  },
+  {
+    "question": "Qual foi o primeiro console lançado pela Sony?",
+    "options": ["PlayStation", "PlayStation 2", "SNES", "PS One"],
+    "correctAnswer": "PlayStation"
+  },
+
+  {
+    "question": "Resolva a equação: x² - 5x + 6 = 0",
+    "options": ["x = 2 ou x = 3", "x = -2 ou x = -3", "x = 1 ou x = 6", "x = 0 ou x = 5"],
+    "correctAnswer": "x = 2 ou x = 3"
+  },
+  {
+    "question": "Qual é o discriminante (Δ) da equação x² + 4x + 4 = 0?",
+    "options": ["Δ = 0", "Δ = 4", "Δ = 8", "Δ = 16"],
+    "correctAnswer": "Δ = 0"
+  },
+  {
+    "question": "A equação x² + x + 1 = 0 tem:",
+    "options": ["2 raízes reais distintas", "1 raiz real dupla", "2 raízes complexas", "nenhuma solução"],
+    "correctAnswer": "2 raízes complexas"
+  },
+  {
+    "question": "Qual é a soma das raízes da equação 2x² - 8x + 6 = 0?",
+    "options": ["-4", "2", "4", "-2"],
+    "correctAnswer": "4"
+  },
+
+  {
+    "question": "Resolva pelo método de Cramer: x + y = 5 e x - y = 1. Qual é o valor de x?",
+    "options": ["1", "2", "3", "4"],
+    "correctAnswer": "3"
+  },
+  {
+    "question": "Resolva pelo método de Cramer: x + y = 5 e x - y = 1. Qual é o valor de y?",
+    "options": ["1", "2", "3", "4"],
+    "correctAnswer": "2"
+  },
+  {
+    "question": "Qual é o determinante da matriz [[2, 3], [1, 4]]?",
+    "options": ["5", "6", "7", "8"],
+    "correctAnswer": "5"
+  },
+  {
+    "question": "Qual é a solução de x e y no sistema: 2x + y = 7, x + y = 4?",
+    "options": ["x = 3, y = 1", "x = 2, y = 2", "x = 4, y = 0", "x = 1, y = 3"],
+    "correctAnswer": "x = 3, y = 1"
+  }
+]

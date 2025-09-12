@@ -1,50 +1,91 @@
-# Welcome to your Expo app 👋
+# 🏆 Quiz App - Pietro Freire Rezende dos Santos
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+> Status do Projeto: Concluído ✔️
 
-## Get started
+---
 
-1. Install dependencies
+### Tabela de Conteúdos
+* [Descrição do Projeto](#descrição-do-projeto)
+* [Demonstração da Aplicação](#demonstração-da-aplicação)
+* [Funcionalidades](#-funcionalidades)
+* [Tecnologias Utilizadas](#️-tecnologias-utilizadas)
+* [Como Rodar o Projeto Localmente](#️-como-rodar-o-projeto-localmente)
+* [Funcionalidade Adicional](#-funcionalidade-adicional)
+* [Autor](#-autor)
 
-   ```bash
-   npm install
-   ```
+---
 
-2. Start the app
+### Descrição do Projeto
+<p align="center">
+Este projeto é um aplicativo de Quiz multiplataforma, desenvolvido com React Native e Expo, como projeto final do curso de programação. O aplicativo apresenta um questionário com feedback instantâneo, tela de resultados e a possibilidade de jogar novamente.
+</p>
 
-   ```bash
-   npx expo start
-   ```
+---
 
-In the output, you'll find options to open the app in a
+### Demonstração da Aplicação
+<p align="center">
+  <img src="../quiz/assets/images/print.png" alt="Demonstração do App" width="300"/>
+</p>
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+---
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+### 🚀 Funcionalidades
 
-## Get a fresh project
+- **Quiz Interativo:** Fluxo de perguntas e respostas com validação.
+- **Feedback Visual:** Respostas são marcadas como corretas ou incorretas instantaneamente.
+- **Placar:** Pontuação é calculada e atualizada a cada rodada.
+- **Tela de Resultados:** Ao final do quiz, uma tela exibe a pontuação final.
+- **Jogar Novamente:** O usuário pode reiniciar o quiz a partir da tela de resultados.
+- **Funcionalidade Adicional:** **[Nome da sua nova funcionalidade]** (ex: Cronômetro regressivo por pergunta).
 
-When you're ready, run:
+---
+
+### 🛠️ Tecnologias Utilizadas
+
+- **[React Native](https://reactnative.dev/)**
+- **[Expo](https://expo.dev/)**
+- **[TypeScript](https://www.typescriptlang.org/)**
+
+---
+
+### ⚙️ Como Rodar o Projeto Localmente
 
 ```bash
-npm run reset-project
+# 1. Clone o repositório
+$ git clone [link-do-seu-repositorio]
+
+# 2. Navegue até o diretório do projeto
+$ cd quiz-app
+
+# 3. Instale as dependências
+$ npm install
+
+# 4. Inicie o servidor de desenvolvimento
+$ npm start
 ```
+Após executar `npm start`, pressione `w` para abrir no navegador ou escaneie o QR Code com o app Expo Go no seu celular.
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+---
 
-## Learn more
+## ✨ Funcionalidade Adicional: [Nome da sua Feature]
 
-To learn more about developing your project with Expo, look at the following resources:
+Esta seção detalha a funcionalidade extra implementada como parte do desafio final do curso.
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
+### Descrição
+*O aplicativo de quiz foi aprimorado para oferecer uma experiência de jogo mais dinâmica e desafiadora. Agora, cada pergunta tem um cronômetro regressivo de 15 segundos, adicionando um elemento de urgência. Para enriquecer o feedback do usuário, efeitos sonoros de acerto e erro foram implementados. Além disso, as perguntas e suas respectivas opções são embaralhadas aleatoriamente a cada partida, garantindo que o jogo seja único e divertido em todas as rodadas.*
 
-## Join the community
+### Desafios e Aprendizados
+*A implementação dessas funcionalidades exigiu o uso de conceitos avançados do React Native e TypeScript. Para o cronômetro, foi essencial usar o useEffect para gerenciar o ciclo de vida do setInterval e comunicar o evento de "tempo esgotado" do componente filho para o pai. Os sons foram adicionados com a biblioteca expo-av, que requer o manuseio assíncrono de arquivos de áudio. O maior aprendizado foi a aplicação de um algoritmo de embaralhamento (Fisher-Yates) para garantir que as perguntas e as opções fossem apresentadas de forma verdadeiramente aleatória, melhorando a rejogabilidade do quiz.*
 
-Join our community of developers creating universal apps.
+### Demonstração da Nova Funcionalidade
+<p align="center">
+  <img src="link-para-seu-gif-ou-screenshot.png" alt="Demonstração da Nova Funcionalidade" width="300"/>
+</p>
 
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+---
+
+### 👨‍💻 Autor
+
+Desenvolvido por **Pietro Freire Rezende dos Santos**.
+
+Sob a orientação do **Prof. Rafael Ribas**.

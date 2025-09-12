@@ -1,0 +1,97 @@
+[
+  {
+    "question": "Qual destes NÃO é um Pokémon?",
+    "options": ["Pikachu", "Charmander", "Agumon", "Bulbasaur"],
+    "correctAnswer": "Agumon"
+  },
+  {
+    "question": "Qual é o nome verdadeiro do criador de Pokémon?",
+    "options": ["Satoshi Tajiri", "Ken Sugimori", "Junichi Masuda", "Tsunekazu Ishihara"],
+    "correctAnswer": "Satoshi Tajiri"
+  },
+  {
+    "question": "Qual tipo é super-eficaz contra o tipo Fogo?",
+    "options": ["Água", "Grama", "Inseto", "Elétrico"],
+    "correctAnswer": "Água"
+  },
+  {
+    "question": "Qual destes Pokémon é inicial da região de Kanto?",
+    "options": ["Totodile", "Torchic", "Bulbasaur", "Chimchar"],
+    "correctAnswer": "Bulbasaur"
+  },
+  {
+    "question": "Qual destes é um Pokémon Lendário da primeira geração?",
+    "options": ["Mewtwo", "Rayquaza", "Dialga", "Zygarde"],
+    "correctAnswer": "Mewtwo"
+  },
+  {
+    "question": "Qual elemento corresponde ao tipo 'Steel' em português?",
+    "options": ["Aço", "Pedra", "Terra", "Metal"],
+    "correctAnswer": "Aço"
+  },
+  {
+    "question": "Quantos Pokémon existem na Pokédex Nacional até a 9ª geração?",
+    "options": ["898", "1008", "905", "1025"],
+    "correctAnswer": "1008"
+  },
+  {
+    "question": "Qual destes números corresponde ao Pokémon #025 da Pokédex?",
+    "options": ["Eevee", "Pikachu", "Jigglypuff", "Zubat"],
+    "correctAnswer": "Pikachu"
+  },
+  {
+    "question": "Qual é o valor de evolução de Magikarp em termos de nível?",
+    "options": ["10", "20", "30", "25"],
+    "correctAnswer": "20"
+  },
+  {
+    "question": "Qual destes jogos NÃO faz parte da franquia principal de Pokémon?",
+    "options": ["Pokémon Red", "Pokémon Silver", "Pokémon Snap", "Pokémon Emerald"],
+    "correctAnswer": "Pokémon Snap"
+  },
+  {
+    "question": "Qual foi o primeiro jogo da franquia Pokémon lançado?",
+    "options": ["Pokémon Red/Green", "Pokémon Yellow", "Pokémon Gold", "Pokémon Blue"],
+    "correctAnswer": "Pokémon Red/Green"
+  },
+  {
+    "question": "Qual é a evolução do Pokémon Charmander?",
+    "options": ["Charmeleon", "Charizard", "Blaziken", "Cyndaquil"],
+    "correctAnswer": "Charmeleon"
+  },
+  {
+    "question": "Qual é a fraqueza do tipo Dragão na 1ª geração?",
+    "options": ["Dragão", "Gelo", "Fada", "Pedra"],
+    "correctAnswer": "Gelo"
+  },
+  {
+    "question": "Um Pokémon do tipo Fantasma contra um Normal resulta em:",
+    "options": ["Dano dobrado", "Dano normal", "Sem efeito", "Dano reduzido"],
+    "correctAnswer": "Sem efeito"
+  },
+  {
+    "question": "Qual é a soma de formas evolutivas da linha do Eevee?",
+    "options": ["5", "8", "9", "7"],
+    "correctAnswer": "8"
+  },
+  {
+    "question": "No anime, quem é o treinador parceiro do Pikachu?",
+    "options": ["Brock", "Misty", "Ash Ketchum", "Gary Oak"],
+    "correctAnswer": "Ash Ketchum"
+  },
+  {
+    "question": "Qual é a forma evoluída do Pokémon Riolu?",
+    "options": ["Lucario", "Machamp", "Hitmonlee", "Gallade"],
+    "correctAnswer": "Lucario"
+  },
+  {
+    "question": "Qual é o tipo do Pokémon Gengar?",
+    "options": ["Fantasma/Veneno", "Sombrio", "Psíquico/Fantasma", "Sombrio/Veneno"],
+    "correctAnswer": "Fantasma/Veneno"
+  },
+  {
+    "question": "Qual é a solução para o sistema de evolução: Pichu → Pikachu → ?",
+    "options": ["Raichu", "Plusle", "Minun", "Emolga"],
+    "correctAnswer": "Raichu"
+  }
+]
