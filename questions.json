@@ -100,5 +100,35 @@
     "question": "Qual é a solução de x e y no sistema: 2x + y = 7, x + y = 4?",
     "options": ["x = 3, y = 1", "x = 2, y = 2", "x = 4, y = 0", "x = 1, y = 3"],
     "correctAnswer": "x = 3, y = 1"
+  },
+  {
+    "question": "Qual elemento corresponde ao tipo 'Steel' em português?",
+    "options": ["Aço", "Pedra", "Terra", "Metal"],
+    "correctAnswer": "Aço"
+  },
+  {
+    "question": "Quantos Pokémon existem na Pokédex Nacional até a 9ª geração?",
+    "options": ["898", "1008", "905", "1025"],
+    "correctAnswer": "1008"
+  },
+  {
+    "question": "Qual destes números corresponde ao Pokémon #025 da Pokédex?",
+    "options": ["Eevee", "Pikachu", "Jigglypuff", "Zubat"],
+    "correctAnswer": "Pikachu"
+  },
+  {
+    "question": "Qual é o valor de evolução de Magikarp em termos de nível?",
+    "options": ["10", "20", "30", "25"],
+    "correctAnswer": "20"
+  },
+  {
+    "question": "Um Pokémon do tipo Fantasma contra um Normal resulta em:",
+    "options": ["Dano dobrado", "Dano normal", "Sem efeito", "Dano reduzido"],
+    "correctAnswer": "Sem efeito"
+  },
+  {
+    "question": "Qual é a soma de formas evolutivas da linha do Eevee?",
+    "options": ["5", "8", "9", "7"],
+    "correctAnswer": "8"
   }
 ]
