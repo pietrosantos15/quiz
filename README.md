@@ -67,7 +67,7 @@ Após executar `npm start`, pressione `w` para abrir no navegador ou escaneie o 
 
 ---
 
-## ✨ Funcionalidade Adicional: [Nome da sua Feature]
+## ✨ Funcionalidades Adicionais: Cronômetro, efeitos sonoros e 
 
 Esta seção detalha a funcionalidade extra implementada como parte do desafio final do curso.
 
@@ -77,9 +77,9 @@ Esta seção detalha a funcionalidade extra implementada como parte do desafio f
 ### Desafios e Aprendizados
 *A implementação dessas funcionalidades exigiu o uso de conceitos avançados do React Native e TypeScript. Para o cronômetro, foi essencial usar o useEffect para gerenciar o ciclo de vida do setInterval e comunicar o evento de "tempo esgotado" do componente filho para o pai. Os sons foram adicionados com a biblioteca expo-av, que requer o manuseio assíncrono de arquivos de áudio. O maior aprendizado foi a aplicação de um algoritmo de embaralhamento (Fisher-Yates) para garantir que as perguntas e as opções fossem apresentadas de forma verdadeiramente aleatória, melhorando a rejogabilidade do quiz.*
 
-### Demonstração da Nova Funcionalidade
+### Demonstração do Cronômetro
 <p align="center">
-  <img src="link-para-seu-gif-ou-screenshot.png" alt="Demonstração da Nova Funcionalidade" width="300"/>
+  <img src="assets/images/2025-09-16 13-03-09.gif" width="300"/>
 </p>
 
 ---
