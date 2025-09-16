@@ -129,7 +129,7 @@ const styles = StyleSheet.create({
   questionContainer: {
     backgroundColor: '#162447',
     borderRadius: 16,
-    padding: 20,
+    padding: 18,
     marginBottom: 24,
     shadowColor: '#000',
     shadowOpacity: 0.3,
@@ -148,15 +148,15 @@ const styles = StyleSheet.create({
   },
   option: {
     backgroundColor: '#1F4068',
-    padding: 20,             // 🔽 menor
+    padding: 13,             // 🔽 menor
     borderRadius: 10,       // 🔽 menos arredondado
-    borderWidth: 2,
+    borderWidth: 1,
     borderColor: '#1F4068',
-    marginVertical: 4,      // 🔽 menor
+    marginVertical: 2,      // 🔽 menor
     shadowColor: '#000',
     shadowOpacity: 0.2,
     shadowRadius: 3,
-    elevation: 2,
+    elevation: 1,
   },
   optionText: {
     fontSize: 16,           // 🔽 menor
