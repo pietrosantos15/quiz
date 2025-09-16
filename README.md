@@ -24,7 +24,7 @@ Este projeto é um aplicativo de Quiz multiplataforma, desenvolvido com React Na
 
 ### Demonstração da Aplicação
 <p align="center">
-  <img src="../quiz/assets/images/print.png" alt="Demonstração do App" width="300"/>
+  <img src="assets/images/cronometro.png" alt="Demonstração do App" width="300"/>
 </p>
 
 ---
